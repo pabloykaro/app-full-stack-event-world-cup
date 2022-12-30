@@ -1,12 +1,3 @@
-<p align="center">
-  <img alt="NLW Copa" src=".github/logo.svg" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=10&color=F7DD43&labelColor=202024" alt="NLW 10 - Copa" />
-</p>
-
-<img src=".github/web.png">
 
 ## 💻 Projeto
 
@@ -28,9 +19,9 @@ Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o ger
 
 Acesse a documentação de cada projeto:
 
-- [Backend](./server/README.md)
-- [Web](./web/README.md)
-- [Mobile](./mobile/README.md)
+- [Backend]
+- [Web]
+- [Mobile]
 
 ## 🔖 Layout
 
@@ -41,9 +32,6 @@ Você pode visualizar o layout do projeto através do link abaixo:
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 <p align="center">
-  Feito com 💜 by Pablo Ykaro no Evento RocketSeat.
+  Feito por Pablo Ykaro no Evento RocketSeat.
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
-</p>
